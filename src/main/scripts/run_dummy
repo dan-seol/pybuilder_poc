@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+
+
+from dummy_api import DummyApi
+
+
+if __name__ == '__main__':
+    dummy_api = DummyApi('danhost', 'aanika', 'noodles')
+    print(dummy_api.say_hello("Dan's Passa"))

@@ -1,0 +1,4 @@
+paramiko
+scipy
+numpy
+pandas

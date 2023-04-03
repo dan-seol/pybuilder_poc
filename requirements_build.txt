@@ -1,0 +1,10 @@
+paramiko
+scipy
+numpy
+pandas
+pybuilder
+pybuilder_pytest
+pybuilder_pytest_coverage
+pypandoc
+flake8
+pyyaml
